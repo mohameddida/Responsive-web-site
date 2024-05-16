@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+  font-size: x-large;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
